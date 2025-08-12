@@ -32,9 +32,9 @@ Currently exploring **MERN Stack, Next.js**, and diving deeper into **AI-powered
 ---
 
 ## 📬 Let’s Connect
-- **Portfolio:** [portfolio.asharcodes.com](#)
-- **LinkedIn:** [linkedin.com/in/asharcodes](#)  
-- **Twitter/X:** [x.com/asharcodes](#)  
+- **Portfolio:** [portfolio.asharcodes.com](https://portfolio.asharcodes.com/)
+- **LinkedIn:** [linkedin.com/in/asharcodes](https://linkedin.com/in/asharcodes)  
+- **Twitter/X:** [x.com/asharcodes](https://x.com/asharcodes)  
 - **Email:** itsasharcodes@gmail.com  
 
 ---
