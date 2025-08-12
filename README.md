@@ -32,10 +32,10 @@ Currently exploring **MERN Stack, Next.js**, and diving deeper into **AI-powered
 ---
 
 ## 📬 Let’s Connect
-- **Portfolio:** [ashar-ops.github.io](#) _(Coming Soon)_
-- **LinkedIn:** [linkedin.com/in/ashar-ops](#)  
-- **Twitter/X:** [twitter.com/ashar_ops](#)  
-- **Email:** ashar@example.com  
+- **Portfolio:** [portfolio.asharcodes.com](#)
+- **LinkedIn:** [linkedin.com/in/asharcodes](#)  
+- **Twitter/X:** [x.com/asharcodes](#)  
+- **Email:** itsasharcodes@gmail.com  
 
 ---
 
