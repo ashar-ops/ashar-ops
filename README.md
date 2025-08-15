@@ -8,8 +8,7 @@ I’m a **Full-Stack Web Developer** with a love for building clean, functional,
 
 <p align="center">
   <a href="https://github.com/ashar-ops">
-    <img src="https://github-readme-stats.vercel.app/api?username=ashar-ops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ashar's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashar-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashar-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
 
@@ -34,33 +33,34 @@ I’m a **Full-Stack Web Developer** with a love for building clean, functional,
 ## 🛠️ My Tech Stack
 
 <p align="center">
+ <strong>Languages:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,cpp,java" />
+  </a>
+  <br><br>
   <strong>Frontend:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,astro,vite,redux" />
   </a>
   <br><br>
   <strong>Backend & Database:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,appwrite,supabase,firebase,postgresql" />
   </a>
   <br><br>
   <strong>Tools & Platforms:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux,notion,figma,postman,wordpress" />
   </a>
   <br><br>
-  <strong>Currently Learning:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- **[Task & Habit Tracker](#)** – A SaaS web app for productivity with AI-powered scheduling.
-- **[Responsive Layouts in Tailwind](#)** – Blog + demo on building clean, responsive UIs.
-- **[Tech News Scraper](#)** – Python + AI project for summarizing latest tech news.
+- **[Task & Habit Tracker](http://trackfinca.vercel.app/)** – A SaaS web app for productivity with AI-powered scheduling.
+- **[Responsive Layouts in Tailwind](http://asharcodes.com/)** – Blog + demo on building clean, responsive UIs.
+- **[Ecommerce Store](http://store.asharcodes.com/)** – MERN based clothing store
 
 ---
 
