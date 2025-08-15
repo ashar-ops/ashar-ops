@@ -7,15 +7,15 @@ I’m a **Full-Stack Web Developer** with a love for building clean, functional,
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/asharcodes">
-    <img src="https://github-readme-stats.vercel.app/api?username=asharcodes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ashar's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharcodes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/ashar-ops">
+    <img src="https://github-readme-stats.vercel.app/api?username=ashar-ops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ashar's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashar-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/asharcodes">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asharcodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/ashar-ops">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashar-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
